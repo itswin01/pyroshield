@@ -1,8 +1,6 @@
 
 <h1 align="center" id="title">PyroShield</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Shree8516/PyroShield/image?custom_description=&amp;custom_language=Python&amp;description=1&amp;font=Source+Code+Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie+Brown&amp;theme=Dark" alt="project-image"></p>
-
 <p id="description">PyroShield is an AI-powered wildfire detection system that analyzes aerial or satellite images using deep learning and triggers automated alerts to enable faster emergency response.</p>
 
 ## 🛠 Tech Stack
@@ -35,3 +33,10 @@ python app.py
 
 ```
 index.html
+```
+## My Contribution
+
+- Preprocessed wildfire image datasets for training
+- Trained machine learning model for fire vs non-fire classification
+- Tested model performance and evaluated accuracy
+- Helped optimize detection results, achieving 88% accuracy
